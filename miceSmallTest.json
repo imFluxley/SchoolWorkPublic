@@ -1,0 +1,24 @@
+[
+{
+"NAME": "Logitech Pro Wireless",
+"GRAPHICNAME": "41",
+"PRODUCTID": "AB12",
+"PRICE": "125",
+"MSRP": "1480",
+"QTYONHAND": "51",
+"QTYONBACKORDER": "4",
+"DESC": "Made with and for Pro Gamers: G Pro Wireless Gaming Mouse is the result of two years of work with professional esports gamers, combing advanced technologies in an ultra-lightweight design",
+"BRAND": "LOGITECH"
+},
+{
+"NAME": "Logitech MX Master 2S",
+"GRAPHICNAME": "41",
+"PRODUCTID": "AB13",
+"PRICE": "125",
+"MSRP": "1480",
+"QTYONHAND": "51",
+"QTYONBACKORDER": "4",
+"DESC": "The Logitech MX Master 2S is a little bit of everything that you could ever want out of a wireless mouse. Its physical design is incredibly comfortable and will fit your hand well thanks to its ergonomic shape and special thumb rest, making it great to use for long periods of time ",
+"BRAND": "LOGITECH"
+}
+]
